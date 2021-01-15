@@ -15,7 +15,7 @@ Tenho mais de 8 anos de experiência com análise de dados, dentre habilidades e
 
 Possuo interesse em pesquisa interdisciplinar para a compreensão de fenômenos naturais, colaborando recentemente com profissionais da área da Física, e utilizando ferramentas de deep learning e redes neurais.
 
-Atualmente fazendo transição para a área de Data Science e Analytics. Portfólio de Data Science em construção (será exposto aqui assim que possível) 
+Atualmente fazendo transição para a área de Data Science e Analytics. 
 
 <br>
 
