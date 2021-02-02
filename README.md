@@ -22,7 +22,7 @@ Atualmente fazendo transição para a área de Data Science e Analytics.
 <summary><b>Linguagens e Ferramentas</b>:</summary>
 <code><img height="32" src="https://simpleicons.org/icons/python.svg"></code> Python
 <code><img height="32" src="https://simpleicons.org/icons/r.svg"></code> R
-<code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code> Microsoft SQL Server
+<code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code> SQL Server
 <code><img height="32" src="https://simpleicons.org/icons/postgresql.svg"></code> PostgreSQL
 <code><img height="32" src="https://simpleicons.org/icons/git.svg"></code> Git
 <code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code> Tableau
