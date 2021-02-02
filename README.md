@@ -27,7 +27,7 @@ Atualmente fazendo transição para a área de Data Science e Analytics.
 <code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code> Tableau
 <code><img height="32" src="https://simpleicons.org/icons/powerbi.svg"></code> PowerBI
 <code><img height="32" src="https://simpleicons.org/icons/docker.svg"></code> Docker
-
+<code><img height="32" src="https://simpleicons.org/icons/streamlit.svg"></code> Streamlit
 <br><br>
 
 [![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=Fmarcelneves)](https://github.com/Fmarcelneves/github-readme-stats)
