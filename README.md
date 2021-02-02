@@ -20,10 +20,9 @@ Atualmente fazendo transição para a área de Data Science e Analytics.
 <br>
 
 <summary><b>Linguagens e Ferramentas</b>:</summary>
-<code><img height="32" src="https://simpleicons.org/icons/python.svg" (https://www.linkedin.com/in/felipe-marcel-neves-9b765215b/)></code> 
-<code><img height="32" src="https://simpleicons.org/icons/r.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="32" src="https://simpleicons.org/icons/mysql.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/python.svg" (https://www.linkedin.com/in/felipe-marcel-neves-9b765215b/)></code> Python
+<code><img height="32" src="https://simpleicons.org/icons/r.svg"></code> R
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> SQL
 <code><img height="32" src="https://simpleicons.org/icons/git.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/powerbi.svg"></code>
