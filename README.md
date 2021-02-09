@@ -24,7 +24,6 @@ Atualmente fazendo transição para a área de Data Science e Analytics.
 <code><img height="32" src="https://simpleicons.org/icons/r.svg"></code> R
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code> SQL Server
 <code><img height="32" src="https://simpleicons.org/icons/postgresql.svg"></code> PostgreSQL
-<code><img height="32" src="https://simpleicons.org/icons/git.svg"></code> Git
 <code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code> Tableau
 <code><img height="32" src="https://simpleicons.org/icons/powerbi.svg"></code> PowerBI
 <code><img height="32" src="https://simpleicons.org/icons/docker.svg"></code> Docker
