@@ -23,9 +23,6 @@ Realizei transição para a área de Data Science e Analytics, onde continuo a d
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code> SQL Server
 <code><img height="32" src="https://simpleicons.org/icons/postgresql.svg"></code> PostgreSQL
 <code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code> Tableau
-<code><img height="32" src="https://simpleicons.org/icons/powerbi.svg"></code> PowerBI
-<code><img height="32" src="https://simpleicons.org/icons/docker.svg"></code> Docker
-<br>
 <code><img height="32" src="https://simpleicons.org/icons/streamlit.svg"></code> Streamlit
 <br><br>
 
