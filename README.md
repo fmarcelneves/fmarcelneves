@@ -17,8 +17,11 @@ Possuo interesse em pesquisa interdisciplinar para a compreensão de fenômenos 
 Realizei transição para a área de Data Science e Analytics, onde continuo a desenvolver meus estudos e expandir meu portfólio de projetos.
 
 ### Projetos Atuais 
-[![Twitter_Network_Analytics] (https://fmarcelneves.medium.com/twitter-network-analytics-fcb01272e2fd?source=friends_link&sk=61c8b463611b90e3cb52d20a07f0e914)]
-{\href{https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf} {RH Analytics e Machine Learning}}
+[Twitter_Network_Analytics] (https://fmarcelneves.medium.com/twitter-network-analytics-fcb01272e2fd?source=friends_link&sk=61c8b463611b90e3cb52d20a07f0e914)
+
+[I'm an inline-style link](https://www.google.com)
+
+{RH Analytics e Machine Learning}}
 
 
 RH Analytics e Machine Learning
