@@ -8,13 +8,13 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=)](https://fmarcelneves.github.io/portfolio/)
 
 ## About me 
-Doutor em Ciências Biológicas da Universidade Federal do Paraná (UFPR) com doutorado sanduíche (bolsista CAPES-PDSE) na New Jersey Institute of Technology (NJIT), Mestre em Zoologia da Universidade Federal do Paraná (UFPR), Bacharel em Biologia pela Pontifícia Universidade Católica do Paraná. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP).
+CAPES-PDSE) na New Jersey Institute of Technology (NJIT), Mestre em Zoologia da Universidade Federal do Paraná (UFPR), Bacharel em Biologia pela Pontifícia Universidade Católica do Paraná. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP).
 
 Tenho mais de 8 anos de experiência com análise de dados, dentre habilidades específicas, tenho experiência e conhecimento científico de modelagem matemática, redes complexas, análises de recorrência (dinâmica não-linear), estatística, programação (e.g. R, Python, Matlab, NetLogo), e uso de software de tracking de movimento (e.g. Ctrax, ImageJ). Tenho artigos científicos publicados em revistas internacionais como primeiro autor, com ênfase em Comportamento e Sistemas Complexos, trabalhando com seres humanos, insetos sociais (formigas & vespas), aracnídeos e organismos planctônicos.
 
 Possuo interesse em pesquisa interdisciplinar para a compreensão de fenômenos naturais, colaborando recentemente com profissionais da área da Física, e utilizando ferramentas de deep learning e redes neurais.
 
-Realizei transição para a área de Data Science e Analytics, onde continuo a desenvolver meus estudos e expandir meu portfólio de projetos.
+Realizei transição para a área de Data Science e Analytics, onde continuo a desenvolver meus estudos e expandir meu portfólio de projetos. 
 
 ### Projetos Atuais 
 1. [Twitter Network Analytics](https://fmarcelneves.medium.com/twitter-network-analytics-fcb01272e2fd?source=friends_link&sk=61c8b463611b90e3cb52d20a07f0e914)
