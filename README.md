@@ -8,7 +8,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=)](https://fmarcelneves.github.io/portfolio/)
 
 ## About me 
-CAPES-PDSE) na New Jersey Institute of Technology (NJIT), Mestre em Zoologia da Universidade Federal do Paraná (UFPR), Bacharel em Biologia pela Pontifícia Universidade Católica do Paraná. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP).
+Doutor em Ciências Biológicas da Universidade Federal do Paraná (UFPR) com doutorado sanduíche (bolsista CAPES-PDSE) na New Jersey Institute of Technology (NJIT), Mestre em Zoologia da Universidade Federal do Paraná (UFPR), Bacharel em Biologia pela Pontifícia Universidade Católica do Paraná. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP).
 
 Tenho mais de 8 anos de experiência com análise de dados, dentre habilidades específicas, tenho experiência e conhecimento científico de modelagem matemática, redes complexas, análises de recorrência (dinâmica não-linear), estatística, programação (e.g. R, Python, Matlab, NetLogo), e uso de software de tracking de movimento (e.g. Ctrax, ImageJ). Tenho artigos científicos publicados em revistas internacionais como primeiro autor, com ênfase em Comportamento e Sistemas Complexos, trabalhando com seres humanos, insetos sociais (formigas & vespas), aracnídeos e organismos planctônicos.
 
