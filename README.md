@@ -22,6 +22,9 @@ Realizei transição para a área de Data Science e Analytics, onde continuo a d
 3. [Análise e previsão do preço do aluguel de Curitiba-PR](https://github.com/fmarcelneves/Rental-price-analysis-and-forecast-Curitiba-PR) 
 4. [Data visualization - Viz for Social Good - Voluntariado](https://github.com/fmarcelneves/Viz-for-Social-Good)
 
+### Artigos científicos 
+Link para ORCID: https://orcid.org/0000-0002-1586-6929
+
 <summary><b>Linguagens e Ferramentas</b>:</summary>
 <code><img height="32" src="https://simpleicons.org/icons/python.svg"></code> Python
 <code><img height="32" src="https://simpleicons.org/icons/r.svg"></code> R
