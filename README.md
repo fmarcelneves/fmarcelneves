@@ -17,8 +17,8 @@ Possuo interesse em pesquisa interdisciplinar para a compreensão de fenômenos 
 Realizei transição para a área de Data Science e Analytics, onde continuo a desenvolver meus estudos e expandir meu portfólio de projetos. 
 
 ### Projetos Atuais 
-1. [Twitter Network Analytics](https://fmarcelneves.medium.com/twitter-network-analytics-fcb01272e2fd?source=friends_link&sk=61c8b463611b90e3cb52d20a07f0e914)
-2. [RH Analytics e Machine Learning](https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf)
+1. [Twitter Network Analytics](https://github.com/fmarcelneves/Twitter-Network-Analytics)
+2. [RH Analytics e Machine Learning](https://github.com/fmarcelneves/HR-Analytics-Prediction)
 3. [Análise e previsão do preço do aluguel de Curitiba-PR](https://github.com/fmarcelneves/Rental-price-analysis-and-forecast-Curitiba-PR) 
 4. [Data visualization - Viz for Social Good - Voluntariado](https://github.com/fmarcelneves/Viz-for-Social-Good)
 
