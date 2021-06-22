@@ -14,7 +14,7 @@ Tenho mais de 8 anos de experiência com análise de dados, dentre habilidades e
 
 Possuo interesse em pesquisa interdisciplinar para a compreensão de fenômenos naturais, colaborando recentemente com profissionais da área da Física, e utilizando ferramentas de deep learning e redes neurais.
 
-Realizei transição para a área de Data Science e Analytics, onde atualmente exerco o cargo de cientista de dados na Afinz.  
+Realizei transição para a área de Data Science e Analytics, onde atualmente exerço o cargo de cientista de dados na Afinz.  
 
 ### Projetos Atuais 
 1. [Twitter Network Analytics](https://github.com/fmarcelneves/Twitter-Network-Analytics)
