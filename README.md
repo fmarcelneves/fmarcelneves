@@ -10,11 +10,7 @@
 ## About me 
 Doutor em Ciências Biológicas da Universidade Federal do Paraná (UFPR) com doutorado sanduíche (bolsista CAPES-PDSE) na New Jersey Institute of Technology (NJIT), Mestre em Zoologia da Universidade Federal do Paraná (UFPR), Bacharel em Biologia pela Pontifícia Universidade Católica do Paraná. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP).
 
-Tenho mais de 8 anos de experiência com análise de dados, dentre habilidades específicas, tenho experiência e conhecimento científico de modelagem matemática, redes complexas, análises de recorrência (dinâmica não-linear), estatística, programação (e.g. R, Python, Matlab, NetLogo), e uso de software de tracking de movimento (e.g. Ctrax, ImageJ). Tenho artigos científicos publicados em revistas internacionais como primeiro autor, com ênfase em Comportamento e Sistemas Complexos, trabalhando com seres humanos, insetos sociais (formigas & vespas), aracnídeos e organismos planctônicos.
-
-Possuo interesse em pesquisa interdisciplinar para a compreensão de fenômenos naturais, colaborando recentemente com profissionais da área da Física, e utilizando ferramentas de deep learning e redes neurais.
-
-Realizei transição para a área de Data Science e Analytics, onde atualmente exerço o cargo de cientista de dados na Afinz.  
+Tenho mais de 8 anos de experiência com análise de dados, tanto na academia como mais recentemente no mercado de trabalho. Dentre habilidades específicas, tenho experiência e conhecimento científico de modelagem matemática (incluindo modelos de machine learning), redes complexas, análises de recorrência (dinâmica não-linear), estatística, programação (e.g. R, Python, Matlab, NetLogo). Tenho artigos científicos publicados em revistas internacionais como primeiro autor, com ênfase em Comportamento e Sistemas Complexos, trabalhando com seres humanos, insetos sociais (formigas & vespas), aracnídeos e organismos planctônicos. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP), atualmente exerço o cargo de cientista de dados na Afinz, na área de gestão de risco. 
 
 ### Projetos Atuais 
 1. [Twitter Network Analytics](https://github.com/fmarcelneves/Twitter-Network-Analytics)
