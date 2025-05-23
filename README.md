@@ -15,10 +15,11 @@ Possuo Doutorado em Ciências Biológicas pela Universidade Federal do Paraná (
 Sou proficiente em programação usando Python, R e SQL, tenho vasta experiência em métodos estatísticos avançados, além de em modelagem baseada em agentes, e estatística multivariada. No meu dia a dia sou responsável pela criação de diversos modelos de machine learning, ETLs diversos, e análises estatísticas avançadas, incluindo análises descritivas, preditivas e prescritivas, redação de relatórios de pesquisa, e apresentações para a equipe de negócios.
 
 ### Projetos Atuais 
-1. [Twitter Network Analytics](https://github.com/fmarcelneves/Twitter-Network-Analytics)
-2. [RH Analytics e Machine Learning](https://github.com/fmarcelneves/HR-Analytics-Prediction)
-3. [Análise e previsão do preço do aluguel de Curitiba-PR](https://github.com/fmarcelneves/Rental-price-analysis-and-forecast-Curitiba-PR) 
-4. [Data visualization - Viz for Social Good - Voluntariado](https://github.com/fmarcelneves/Viz-for-Social-Good)
+1. [Redes complexas de setores das Micro e Pequenas Empresas (MPE) brasileiras 2023](https://github.com/fmarcelneves/Redes-complexas-de-setores-das-Micro-e-Pequenas-Empresas-MPE-brasileiras-2023-)
+2. [Twitter Network Analytics](https://github.com/fmarcelneves/Twitter-Network-Analytics)
+3. [RH Analytics e Machine Learning](https://github.com/fmarcelneves/HR-Analytics-Prediction)
+4. [Análise e previsão do preço do aluguel de Curitiba-PR](https://github.com/fmarcelneves/Rental-price-analysis-and-forecast-Curitiba-PR) 
+5. [Data visualization - Viz for Social Good - Voluntariado](https://github.com/fmarcelneves/Viz-for-Social-Good)
 
 ### Artigos científicos 
 Link para o ORCID: https://orcid.org/0000-0002-1586-6929
