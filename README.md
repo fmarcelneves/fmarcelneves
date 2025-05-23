@@ -8,11 +8,11 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=)](https://fmarcelneves.github.io/portfolio/)
 
 ## About me 
-Doutor em Ciências Biológicas da Universidade Federal do Paraná (UFPR) com doutorado sanduíche (bolsista CAPES-PDSE) na New Jersey Institute of Technology (NJIT), Mestre em Zoologia da Universidade Federal do Paraná (UFPR), Bacharel em Biologia pela Pontifícia Universidade Católica do Paraná. Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP).
+Tenho mais de uma década de experiência e especialização em enfrentar desafios complexos baseados em dados. Atualmente, trabalho na Unidade de Gestão Estratégica (UGE) do SEBRAE/NA. Antes do SEBRAE, atuei no mercado como cientista de dados na modelagem de riscos de crédito.
 
-Tenho mais de 8 anos de experiência com análise de dados, tanto na academia como mais recentemente no mercado de trabalho. Dentre habilidades específicas, tenho experiência e conhecimento científico de modelagem matemática (incluindo modelos de machine learning), redes complexas, análises de recorrência (dinâmica não-linear), estatística, programação (e.g. R, Python, Matlab, NetLogo). Tenho artigos científicos publicados em revistas internacionais como primeiro autor, com ênfase em Comportamento e Sistemas Complexos, trabalhando com seres humanos, insetos sociais (formigas & vespas), aracnídeos e organismos planctônicos. 
+Possuo Doutorado em Ciências Biológicas pela Universidade Federal do Paraná (UFPR), com período sanduíche (bolsista CAPES-PDSE) na New Jersey Institute of Technology (NJIT). Tenho Mestrado pela mesma instituição. Pós-doutorado realizado no Instituto Oceanográfico da Universidade de São Paulo. Atualmente estou cursando MBA em Data Science and Analytics pela Universidade de São Paulo (USP). 
 
-Realizei pós-doutorado e fui pesquisador associado do Instituto Oceanográfico da Universidade de São Paulo (IOUSP), atualmente exerço o cargo de cientista de dados na Afinz, na área de gestão de risco. 
+Sou proficiente em programação usando Python, R e SQL, tenho vasta experiência em métodos estatísticos avançados, além de em modelagem baseada em agentes, e estatística multivariada. No meu dia a dia sou responsável pela criação de diversos modelos de machine learning, ETLs diversos, e análises estatísticas avançadas, incluindo análises descritivas, preditivas e prescritivas, redação de relatórios de pesquisa, e apresentações para a equipe de negócios.
 
 ### Projetos Atuais 
 1. [Twitter Network Analytics](https://github.com/fmarcelneves/Twitter-Network-Analytics)
